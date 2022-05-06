@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ronnidc/ui-engine-vanilla/issues"
   },
-  "homepage": "https://github.com/ronnidc/ui-engine-vanilla#readme"
+  "homepage": "https://github.com/ronnidc/ui-engine-vanilla#readme",
+  "devDependencies": {
+    "esbuild": "^0.14.38",
+    "mustache": "^4.2.0",
+    "sass": "^1.51.0"
+  }
 }
